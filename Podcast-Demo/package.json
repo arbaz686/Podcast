@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "echo 'No build process required'",
+    "start": "python -m http.server 8000"
+  }
+}
